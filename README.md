@@ -12,3 +12,5 @@ Usei CSS para estilizar a página e torná-la mais agradável aos olhos.
 
 Para conferir o resultado você pode acessar o deploy no link abaixo:
 
+https://exercicio02-sci-sistemas.netlify.app/
+
